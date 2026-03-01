@@ -1,0 +1,9 @@
+[submodule "web-development-1info-e-2info"]
+	path = web-development-1info-e-2info
+	url = https://github.com/Salty-Beggar/web-development-1info-e-2info.git
+[submodule "web-development-3info"]
+	path = web-development-3info
+	url = https://github.com/Salty-Beggar/web-development-3info.git
+[submodule "Sistema-PEIs"]
+	path = Sistema-PEIs
+	url = https://github.com/Salty-Beggar/Sistema-PEIs.git
